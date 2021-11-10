@@ -1,0 +1,5 @@
+<launch>
+    <rosparam file="$(find adrc)/config/adrc_param_total.yaml" command="load" />
+    <node name = "adrc_param" pkg = "adrc" type = "ADRC">
+    </node>
+</launch>

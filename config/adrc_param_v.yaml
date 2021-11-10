@@ -1,0 +1,15 @@
+ADRC_V.r: 300000
+ADRC_V.h: 0.005
+ADRC_V.N: 2
+ADRC_V.beta_01: 100
+ADRC_V.beta_02: 1000
+ADRC_V.beta_03: 2000
+ADRC_V.b0: 0.001
+ADRC_V.k_0: 0.002
+ADRC_V.k_1: 1.0
+ADRC_V.k_2: 0.0005
+ADRC_V.N1: 5
+ADRC_V.C: 5
+ADRC_V.alpha1: 0.8
+ADRC_V.alpha2: 1.5
+ADRC_V.zeta: 50
