@@ -27,3 +27,21 @@ Get expected position
 /mavros/setpoint_raw/local
 
 MAV control interface
+
+
+
+## Tune
+
+There're 5 params in total:
+
+r
+
+h
+
+N
+
+omega
+
+kp
+
+kd
