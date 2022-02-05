@@ -112,7 +112,7 @@ int main(int argc, char **argv)
         }
     }
     
-    while (current_state != "OFFBOARD"){};
+    while (current_state.mode != "OFFBOARD"){};
     
     ADRC_X.Init_ADRC(ADRC_param_X);
     ADRC_Y.Init_ADRC(ADRC_param_Y);   
